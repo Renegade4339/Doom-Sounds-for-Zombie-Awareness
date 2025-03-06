@@ -1,0 +1,28 @@
+{
+  "alert": {
+    "category": "ui",
+    "replace": "true",
+	"subtitle": "zombieawareness.subtitle.alert",
+    "sounds": [
+      "zombieawareness:alert"
+    ]
+  },
+  "target": {
+    "category": "hostile",
+    "replace": "true",
+	"subtitle": "zombieawareness.subtitle.target",
+    "sounds": [
+      "mob/hostile_alert1", 
+	  "mob/hostile_alert2", 
+	  "mob/hostile_alert3"
+    ]
+  },
+  "investigate": {
+    "category": "hostile",
+    "replace": "true",
+	"subtitle": "zombieawareness.subtitle.investigate",
+    "sounds": [
+      "mob/hostile_investigate"
+    ]
+  }
+}

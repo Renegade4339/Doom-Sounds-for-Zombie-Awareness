@@ -1,0 +1,7 @@
+Sounds by id Software
+Zombie Awareness mod by Corosus (https://modrinth.com/mod/zombie-awareness)
+
+Pack icon:
+Background image from Not Enough Trials by Danmatisk (https://modrinth.com/datapack/not-enough-trials)
+Zombie image taken from The Minecraft Wiki
+Text generated with Ceevee's Doom Text Generator (https://c.eev.ee/doom-text-generator/#text=Zombie%3A+me+see+you&font=doom-small&scale=6&kerning=0&line-spacing=0&padding=0&escapee-mode=expand&equal-lines=on&align=0.5&syntax=none&custom1a=%23000000&custom1c=%23ffffff&translation=green)
